@@ -1,0 +1,27 @@
+{
+    "name": "tpg",
+    "version": "1.0.0",
+    "description": "Team Profile Generator",
+    "main": "app.js",
+    "directories": {
+      "lib": "lib",
+      "test": "test"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Michaelcrowderjr1/Team-Profile-Generator.git"
+    },
+    "author": "Michael Crowder",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Michaelcrowderjr1/Team-Profile-Generator/issues"
+    },
+    "homepage": "https://github.com/Michaelcrowderjr1/Team-Profile-Generator#readme",
+    "dependencies": {
+      "inquirer": "^7.3.3",
+      "jest": "^24.9.0"
+    }
+  }
