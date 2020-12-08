@@ -8,8 +8,7 @@ This application promptes users to input employee names and role and is given fu
 * [Usage](#Usage)
 * [Contributing](#Contributing)
 * [License](#license)
-* [Testing](#testing)
-* [Questions](#questions)
+* [Tests](#tests)
 
 
 
